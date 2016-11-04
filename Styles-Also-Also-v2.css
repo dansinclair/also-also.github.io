@@ -103,6 +103,10 @@ border: none;
 }
 
 
+.project-type p .project-description{
+	display: block;
+}
+
 .project-description {
 	font-family: 'Archivo Black', sans-serif;
 	line-height: 1.5em;
