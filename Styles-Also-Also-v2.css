@@ -1,0 +1,117 @@
+body {
+  display: block;
+  margin: 0;
+}
+
+.wrapper {
+clear: both;
+max-width: 100%;
+margin: 0 10%;
+padding: 0;
+border:0;
+display: block;
+vertical-align: baseline;
+}
+
+.samples {
+clear: both;
+width: 100%;
+max-width: 100%;
+margin: 0 auto;
+display: block;
+
+
+}
+
+.project {
+display: block;
+}
+
+.three-sixty {
+display: inline;
+}
+
+.shuffle-me {
+  width: 90%;
+  margin: 2.5% auto;
+}
+
+.shuffle-me:first-child {
+  width: 90%;
+  margin: 2.5%;
+}
+
+.project-container {
+	height: 0;
+	margin: 0;
+	padding: 0;
+	position: relative;
+	display: block;
+	overflow: hidden;
+}
+
+img {
+	height: 100%;
+	width: 100%;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    overflow: visible;
+}
+
+ iframe {
+
+	height: 100%;
+	width: 100%;
+    margin: 0;
+    padding: 0;
+    border: none;
+    position: relative;
+    top: 0;
+    left: 0;
+    overflow: visible;
+}
+
+.shuffle-me {
+width: 100%;
+margin: 0;
+padding: 0;
+border: none;
+
+}
+
+.shuffle-me:first-child {
+	width: 100%;
+	float: left;
+	height: 100%;
+	border: none;
+}
+
+
+.project-type {
+	margin-top: 0;
+	text-align: left;
+	margin-bottom: 8%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
