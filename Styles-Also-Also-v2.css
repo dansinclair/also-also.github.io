@@ -29,6 +29,12 @@ display: block;
 
 .three-sixty {
 display: inline;
+    height: 0;
+    margin: 0;
+    padding: 0;
+    position: relative;
+    display: inline;
+    overflow: hidden;
 }
 
 .shuffle-me {
@@ -62,14 +68,13 @@ img {
 }
 
  iframe {
-	height: 100%;
-	width: 1000px;
-	height: 100%;
+	height: 700px;
 	width: 100%;
+	max-width: 0 auto;
     margin: 0;
     padding: 0;
     border: none;
-    position: absolute;
+    position: relative;
     top: 0;
     left: 0;
     overflow: visible;
@@ -92,9 +97,14 @@ border: none;
 
 
 .project-type {
-	margin-top: 0;
+	margin-top: 4%;
 	text-align: left;
 	margin-bottom: 8%;
+}
+
+
+.project-description {
+
 }
 
 
