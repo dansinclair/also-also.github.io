@@ -16,9 +16,11 @@ vertical-align: baseline;
 .samples {
 clear: both;
 width: 100%;
-max-width: 100%;
+max-width: 1000px;
 margin: 0 auto;
 display: block;
+margin-bottom: 5%;
+border-bottom: 1px solid #0000FF;
 
 
 }
@@ -82,8 +84,8 @@ img {
 
 .shuffle-me {
 width: 100%;
-margin: 0;
-padding: 0;
+margin: 0px;
+padding: 0px;
 border: none;
 
 }
@@ -93,6 +95,7 @@ border: none;
 	float: left;
 	height: 100%;
 	border: none;
+	margin: 0px;
 }
 
 
